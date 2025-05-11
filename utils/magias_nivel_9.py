@@ -1,0 +1,222 @@
+magias_nivel_9 = [
+{
+    "nome": "Aprisionamento",
+    "nivel": 9,
+    "escola": "Abjuração",
+    "classes": ["Bruxo", "Mago"],
+    "tempo_conjuracao": "1 minuto",
+    "alcance": "9m (30 ft.)",
+    "componentes": "V S M (uma representação em velino ou uma estatueta esculpida à semelhança do alvo, além de um componente especial que varia de acordo com a versão da magia, no valor de pelo menos 500 PO por Dado de Vida do alvo)",
+    "duracao": "Até ser dissipada",
+    "descricao": "Você cria um dispositivo de retenção mágica para aprisionar uma criatura à sua vista. O alvo deve fazer uma salvaguarda de Sabedoria. Se falhar, a criatura é aprisionada na forma que você escolher. Se falhar, o alvo fica imune a essa magia por 24 horas. A magia oferece diversas opções de aprisionamento: \n\n- **Acorrentar**: Correntes de metal precioso prendem a criatura no lugar, impedindo qualquer movimento ou tentativa de ser movida. O componente especial para essa versão é uma corrente feita de metal precioso. \n- **Contenção Reduzida**: O alvo é encolhido até 2,5 cm e preso dentro de uma pedra preciosa. A criatura pode ver e ser vista, mas não pode interagir com o mundo exterior. O componente especial é uma grande gema transparente. \n- **Enterrar**: A criatura é aprisionada em uma esfera de força no solo. Nada pode atravessar essa esfera, incluindo teleporte ou viagem planar. O componente especial é um pequeno orbe de mitral. \n- **Prisão Cercada**: O alvo é transportado para um semiplano miniatura, uma prisão intransponível onde ele ficará até ser liberado. O componente especial é uma miniatura da prisão feita de jade. \n- **Torpor**: O alvo fica inconsciente e não pode ser despertado até que a magia seja dissipado. O componente especial são ervas soníferas raras. \n\nA magia pode ser dissipada por uma magia de Dissipar Magia de 9º círculo ou qualquer outra condição que o conjurador especifique, sendo que o alvo pode ser liberado caso essas condições sejam atendidas. Não é possível conjurar novamente a magia com o mesmo componente especial."
+  },
+  {
+    "nome": "Chuva de Meteoros",
+    "nivel": 9,
+    "escola": "Evocação",
+    "classes": ["Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "1,5km (1 mile)",
+    "componentes": "V S",
+    "duracao": "Instantânea",
+    "descricao": "Esta magia invoca esferas flamejantes, feitas de pura brasa, que atingem o solo em quatro pontos distintos à sua vista dentro do alcance da magia. Cada ponto escolhido gera uma explosão em um raio de 12 metros (40 ft.), afetando criaturas dentro dessa área. As criaturas dentro do raio de cada esfera devem fazer uma salvaguarda de Destreza. Se falharem, elas sofrem 20d6 pontos de dano ígneo e 20d6 pontos de dano contundente. Se a salvaguarda for bem-sucedida, o dano é reduzido à metade. Uma criatura que estiver dentro do alcance de mais de uma esfera sofre apenas o efeito de uma delas. \n\nAlém de ferir criaturas, a magia também pode danificar objetos e causar incêndios em itens inflamáveis que não estejam sendo carregados ou usados. A magia pode afetar grandes áreas com grande destruição e devastação, representando a fúria das forças naturais."
+  },
+  {
+    "nome": "Cura Completa em Massa",
+    "nivel": 9,
+    "escola": "Evocação",
+    "classes": ["Clérigo"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "18m (60 ft.)",
+    "componentes": "V S",
+    "duracao": "Instantânea",
+    "descricao": "Uma onda de energia curativa irrompe de você, restaurando até 700 pontos de vida a todas as criaturas feridas dentro do alcance da magia. O valor total de pontos de vida pode ser distribuído livremente entre as criaturas de sua escolha à sua vista, permitindo que você cure múltiplos alvos ao mesmo tempo. Além disso, a magia também cura todas as doenças e efeitos que causem cegueira ou surdez nas criaturas afetadas. \n\nEsta magia não tem efeito sobre mortos-vivos ou constructos, que não podem ser curados por meios mágicos. Sua capacidade de curar é ampla, permitindo que você recupere grandes quantidades de saúde de maneira eficiente em situações de combate intenso ou quando várias criaturas necessitam de cura. Essa magia é um dos maiores recursos de recuperação de vida em combate."
+  },
+  {
+    "nome": "Desejo",
+    "nivel": 9,
+    "escola": "Invocação",
+    "classes": ["Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "Pessoal",
+    "componentes": "V",
+    "duracao": "Instantânea",
+    "descricao": "Desejo é a magia mais poderosa que um ser mortal pode conjurar, permitindo-lhe alterar os próprios fundamentos da realidade. Ao pronunciá-la, você pode duplicar qualquer magia de 8º círculo ou inferior sem precisar cumprir os requisitos normalmente exigidos, incluindo componentes caros. \n\nAlém disso, você pode criar um dos seguintes efeitos à sua escolha: \n- Criar um objeto de até 25.000 PO em valor, que não seja mágico, e que não ultrapasse 90 metros (300 ft.) em qualquer dimensão. O objeto aparece em um espaço desocupado à sua vista. \n- Curar até 20 criaturas à sua vista, restaurando todos os seus pontos de vida e encerrando quaisquer efeitos que as afligem, conforme descrito na magia Restauração Maior. \n- Conceder resistência a até 10 criaturas à sua vista contra um tipo de dano à sua escolha. \n- Tornar até 10 criaturas à sua vista imunes a uma magia ou efeito mágico específico por 8 horas. \n- Desfazer um acontecimento recente, forçando uma nova rolagem em qualquer teste de dados feito na última rodada, incluindo o seu último turno. \n\nPorém, a magia exige um grande esforço, e você sofrerá fadiga extrema. Depois de usá-la, toda vez que conjurar outra magia, até terminar um descanso longo, sofrerá 1d10 de dano necrótico por cada círculo da magia que você conjurar. Sua Força também cai para 3 por 2d4 dias. Existe uma chance de 33% de você nunca mais poder usar Desejo após sofrer essa fadiga."
+  },
+  {
+    "nome": "Encarnação Fantasmagórica",
+    "nivel": 9,
+    "escola": "Ilusão",
+    "classes": ["Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "36m (120 ft.)",
+    "componentes": "V S",
+    "duracao": "Concentração, até 1 minuto",
+    "descricao": "Você canaliza os medos mais profundos das criaturas em uma área, criando aparições ilusórias que são visíveis apenas para elas. A magia afeta todas as criaturas em uma esfera de 9 metros de raio (30 ft.) centrada em um ponto à sua escolha dentro do alcance. Cada criatura na área deve fazer uma salvaguarda de Sabedoria. Se falharem, elas ficam amedrontadas enquanto a magia durar. \n\nNo final do turno de cada criatura amedrontada, ela deve fazer uma nova salvaguarda de Sabedoria. Se falharem novamente, elas sofrerão 4d10 pontos de dano psíquico. Caso consigam a salvaguarda, a magia se encerra para essa criatura. \n\nAs ilusões são tão aterradoras que a mente da criatura é profundamente perturbada, causando danos psíquicos. Essa magia pode ser devastadora, especialmente em grupos grandes, deixando as vítimas em pânico e vulneráveis."
+  },
+  {
+    "nome": "Grito Psíquico",
+    "nivel": 9,
+    "escola": "Encantamento",
+    "classes": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "27m (90 ft.)",
+    "componentes": "S",
+    "duracao": "Instantânea",
+    "descricao": "Você libera uma explosão de poder psíquico, afetando até 10 criaturas à sua escolha dentro do alcance. Cada criatura deve fazer uma salvaguarda de Inteligência. Se falharem, sofrerão 14d6 pontos de dano psíquico e ficarão atordoadas. Se a salvaguarda for bem-sucedida, o dano é reduzido à metade e a criatura não fica atordoada. \n\nSe a criatura for morta por este dano, sua cabeça explode (caso tenha uma). Uma criatura atordoada pode fazer uma nova salvaguarda de Inteligência no final de cada um de seus turnos, e se tiver sucesso, o efeito de atordoamento é encerrado. \n\nEsse grito psíquico é devastador, sendo capaz de destruir as mentes mais fracas ou causar danos irreparáveis aos alvos mais vulneráveis."
+  },
+    {
+    "nome": "Invulnerabilidade",
+    "nivel": 9,
+    "escola": "Abjuração",
+    "classes": ["Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "Pessoal",
+    "componentes": "V S M (um pequeno pedaço de adamantine valendo, no mínimo, 500gp que a magia consome)",
+    "duracao": "Concentração, Até 10 minutos",
+    "descricao": "Ao conjurar essa magia, você cria um campo de energia abjurante ao redor de si, tornando-se imune a todo e qualquer dano físico ou mágico enquanto a magia durar. Isso significa que qualquer tipo de dano, seja de ataques físicos, magias de dano, ou efeitos ambientais (como fogo, eletricidade ou ácido) não pode afetá-lo de forma alguma. No entanto, isso não afeta outras condições, como envenenamento ou efeitos que alterem sua mente ou sua localização. Durante a duração, você está completamente protegido de qualquer dano, tornando-se uma força praticamente invulnerável. No entanto, a magia exige sua concentração, o que impede que você lance outras magias de concentração simultaneamente. O pedaço de adamantine é consumido no processo, e a magia se dissipa caso você perca a concentração ou ao final da duração."
+  },
+  {
+    "nome": "Lâmina do Desastre",
+    "nivel": 9,
+    "escola": "Invocação",
+    "classes": ["Bruxo", "Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação bônus",
+    "alcance": "18m (60 ft.)",
+    "componentes": "V S",
+    "duracao": "Concentração, Um minuto",
+    "descricao": "Ao conjurar essa magia, você invoca um rasgo planar que assume a forma de uma lâmina de energia pura, com aproximadamente 1,5m de comprimento. A lâmina aparece em um espaço desocupado à sua vista dentro do alcance da magia. Durante a sua duração, você pode controlar a lâmina, realizando até dois ataques mágicos corpo a corpo com ela por turno. Cada ataque causa 4d12 de dano de energia, e se o ataque for um crítico (com um resultado de 18 ou mais no dado de ataque), o dano aumenta para 12d12. Você também pode mover a lâmina até 9m (30 ft.) como uma ação bônus, atacando novamente ao mover-se. A lâmina pode atravessar qualquer barreira, incluindo muralhas de energia, sem sofrer qualquer efeito. Isso a torna extremamente útil para atacar inimigos fortemente protegidos. No entanto, a lâmina requer concentração, e qualquer dano que você sofra pode forçar você a perder a concentração."
+  },
+  {
+    "nome": "Metamorfose",
+    "nivel": 9,
+    "escola": "Transmutação",
+    "classes": ["Druida", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "Pessoal",
+    "componentes": "V S M (uma argola de jade no valor de pelo menos 1.500 PO, que você deve colocar em sua cabeça antes de conjurar a magia)",
+    "duracao": "Concentração, Até uma hora",
+    "descricao": "Ao conjurar essa magia, você assume a forma de qualquer criatura com um nível de desafio igual ou inferior ao seu nível, exceto constructos ou mortos-vivos. Você se transforma completamente, adotando todas as características físicas e habilidades da nova criatura, incluindo suas estatísticas, mas mantendo sua inteligência, sabedoria e carisma, bem como suas habilidades, perícias e salvaguardas. Seu equipamento também se adapta à nova forma de acordo com a decisão do DM, podendo se fundir com você ou cair no chão. Se você for atingido por dano enquanto na nova forma, seus pontos de vida permanecem os mesmos da forma original. Caso a transformação termine por alguma razão, como perder todos os pontos de vida temporários ou a magia acabar, você retorna à sua forma original. Essa magia é extremamente útil para acessar habilidades únicas de criaturas poderosas e pode ser adaptada conforme o tipo de inimigo que você deseja enfrentar ou fugir."
+  },
+  {
+    "nome": "Metamorfose em Massa",
+    "nivel": 9,
+    "escola": "Transmutação",
+    "classes": ["Bardo", "Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "36m (120 ft.)",
+    "componentes": "V S M (um casulo de uma lagarta)",
+    "duracao": "Concentração, Até uma hora",
+    "descricao": "Você transforma até dez criaturas de sua escolha dentro do alcance da magia em uma besta com a qual você esteja familiarizado. Cada criatura pode ser transformada na mesma besta ou em diferentes tipos de animais, desde que o nível de desafio da criatura transformada não exceda o seu nível. As criaturas transformadas mantêm sua personalidade, mas suas habilidades, pontos de vida e características de combate são substituídos pelas da criatura escolhida. Além disso, as criaturas ganham pontos de vida temporários equivalentes à nova forma. Isso permite que elas aguentem mais dano antes de reverter à sua forma original. O alvo não pode usar equipamentos ou realizar ações que dependem de fala ou mãos, mas pode agir de acordo com as capacidades de sua nova forma. A magia dura enquanto você manter a concentração ou até que as criaturas percam todos os pontos de vida temporários."
+  },
+{
+  "nome": "Muralha Prismática",
+  "nivel": 9,
+  "escola": "Abjuração",
+  "classes": ["Mago"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "18m (60 ft.)",
+  "componentes": "V S",
+  "duracao": "Instantânea",
+  "descricao": "Uma muralha de luz multicolorida com até 27m (90 ft.) de comprimento e 9m (30 ft.) de altura. Ela emite luz plena e pode cegar criaturas próximas. A muralha tem sete camadas com diferentes propriedades: Vermelho (dano ígneo), Laranja (ácido), Amarelo (elétrico), Verde (venenoso), Azul (gélido), Anil (transforma em pedra), Violeta (cega e teletransporta). Cada camada é destruída por diferentes danos. Criaturas podem atravessar sem dano, mas devem salvar contra cegueira e efeitos diversos."
+},
+   {
+    "nome": "Palavra de Poder: Matar",
+    "nivel": 9,
+    "escola": "Encantamento",
+    "classes": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
+    "tempo_conjuracao": "Uma ação",
+    "alcance": "18m (60 ft.)",
+    "componentes": "V",
+    "duracao": "Instantânea",
+    "descricao": "Ao pronunciar uma única palavra de poder, você pode forçar uma criatura à sua vista que tenha 100 pontos de vida ou menos a morrer instantaneamente. Não há salvaguarda ou defesa contra esta magia, exceto se a criatura tiver resistência mágica ou algum efeito que a proteja de morte instantânea. Caso o alvo tenha mais de 100 pontos de vida, a magia não terá efeito. Essa magia é incrivelmente poderosa, mas limitada pela quantidade de vida restante do alvo, tornando-a mais eficaz contra inimigos já enfraquecidos. Quando usada em momentos cruciais, pode ser a última palavra que um inimigo ouvirá."
+  },
+  {
+  "nome": "Palavra de Poder: Salvar",
+  "nivel": 9,
+  "escola": "Evocação",
+  "classes": ["Bardo"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "Toque",
+  "componentes": "V S",
+  "duracao": "Instantânea",
+  "descricao": "Uma onda de energia curativa se derrama sobre a criatura que você toca, recuperando todos os seus pontos de vida. Se o alvo estiver amedrontado, atordoado, enfeitiçado ou paralisado, essas condições são removidas. Se o alvo estiver caído, ele pode usar uma reação para se levantar. A magia não afeta mortos-vivos ou constructos."
+},
+{
+  "nome": "Parar o Tempo",
+  "nivel": 9,
+  "escola": "Transmutação",
+  "classes": ["Feiticeiro", "Mago"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "Pessoal",
+  "componentes": "V",
+  "duracao": "Instantânea",
+  "descricao": "Você interrompe brevemente o fluxo do tempo para todos, exceto para si. Durante 1d4+1 turnos consecutivos, você pode agir e se mover normalmente. A magia se encerra se qualquer ação sua afetar outra criatura ou um objeto que não seja de sua posse, ou se você se mover mais de 300 metros (1.000 ft.) do ponto de conjuração."
+},
+{
+  "nome": "Polimorfia Total",
+  "nivel": 9,
+  "escola": "Transmutação",
+  "classes": ["Bardo", "Bruxo", "Mago"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "9m (30 ft.)",
+  "componentes": "V S M (uma gota de mercúrio, um bocado de goma arábica e um fio de fumaça)",
+  "duracao": "Concentração, até uma hora",
+  "descricao": "Você pode transformar uma criatura ou objeto não-mágico à vista em outra criatura, objeto ou em um novo tipo de criatura. A transformação dura enquanto você se concentrar ou até o alvo cair a 0 pontos de vida. A criatura transformada assume as estatísticas de sua nova forma, mas mantém seu alinhamento e personalidade. A magia também permite que criaturas e objetos sejam transformados de volta quando a magia terminar."
+},
+{
+  "nome": "Portal",
+  "nivel": 9,
+  "escola": "Invocação",
+  "classes": ["Clérigo", "Feiticeiro", "Mago"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "18m (60 ft.)",
+  "componentes": "V S M (um diamante, cujo valor mínimo seja de 5.000 PO)",
+  "duracao": "Concentração, até 1 minuto",
+  "descricao": "Você conjura um portal ligando um espaço desocupado à sua vista a um local específico em outro plano de existência. O portal tem de 1,5 a 6 metros de diâmetro e permanece aberto enquanto a magia durar. Qualquer coisa que atravesse o portal será transportada instantaneamente para o outro plano. Você pode também citar o nome de uma criatura para arrastá-la para o seu lado do portal."
+},
+{
+  "nome": "Projeção Astral",
+  "nivel": 9,
+  "escola": "Necromancia",
+  "classes": ["Bruxo", "Clérigo", "Mago"],
+  "tempo_conjuracao": "Uma hora",
+  "alcance": "3m (10 ft.)",
+  "componentes": "V S M (zircão no valor de pelo menos 1.000 PO e uma barra de prata com entalhes ornamentais de 100 PO, consumidos pela magia)",
+  "duracao": "Especial",
+  "descricao": "Você e até oito criaturas voluntárias projetam seus corpos astrais no Plano Astral. Enquanto seus corpos materiais ficam inconscientes, sua forma astral pode viajar livremente entre planos. O cordão prateado conecta seu corpo astral ao corpo material; se cortado, a alma é separada, matando a criatura. A magia termina quando você a encerra ou se o corpo original ou astral da criatura for reduzido a 0 pontos de vida."
+},
+{
+  "nome": "Ressurreição Verdadeira",
+  "nivel": 9,
+  "escola": "Necromancia",
+  "classes": ["Clérigo", "Druida"],
+  "tempo_conjuracao": "Uma hora",
+  "alcance": "Toque",
+  "componentes": "V S M (água benta e diamantes no valor mínimo de 25.000 PO, consumidos)",
+  "duracao": "Instantânea",
+  "descricao": "Você toca uma criatura morta há no máximo dois séculos. Se a alma estiver livre e disposta, a criatura é trazida de volta à vida com todos os pontos de vida. A magia cura todas as feridas, neutraliza venenos e doenças, e restaura membros ou órgãos danificados. Se o corpo original não existir mais, um novo corpo é criado e a criatura aparece em um espaço desocupado perto de você."
+},
+{
+  "nome": "Sexto Sentido",
+  "nivel": 9,
+  "escola": "Adivinhação",
+  "classes": ["Bardo", "Bruxo", "Druida", "Mago"],
+  "tempo_conjuracao": "1 minuto",
+  "alcance": "Toque",
+  "componentes": "V S M (uma pena de beija-flor)",
+  "duracao": "8 horas",
+  "descricao": "Você toca uma criatura voluntária, concedendo-lhe a capacidade de ver o futuro imediato. O alvo não pode ser surpreendido, tem vantagem em ataques, testes de atributos e salvaguardas, enquanto criaturas têm desvantagem em ataques contra ele. A magia termina se for conjurada novamente antes de seu término."
+},
+{
+  "nome": "Tempestade da Vingança",
+  "nivel": 9,
+  "escola": "Invocação",
+  "classes": ["Druida"],
+  "tempo_conjuracao": "Uma ação",
+  "alcance": "Linha de visão",
+  "componentes": "V S",
+  "duracao": "Concentração, Até 1 minuto",
+  "descricao": "Uma nuvem tempestuosa se forma, com raio de 108m (360 ft.). Criaturas sob a nuvem devem fazer uma salvaguarda de Constituição. Se falharem, sofrem 2d6 de dano trovejante e ficam surdas por 5 minutos.\n\nRodada 2: Chuva ácida (1d6 de dano ácido).\nRodada 3: Seis raios atingem criaturas/objetos (10d6 de dano elétrico, metade se bem-sucedido).\nRodada 4: Granizo (2d6 de dano contundente).\nRodada 5-10: Ventos e chuva gélida causam terreno difícil, obscurecimento e 1d6 de dano gélido. Ataques à distância são impossíveis. O vento e a chuva dificultam a concentração. Dispersão de névoa e neblina."
+}
+]
